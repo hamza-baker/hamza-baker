@@ -27,7 +27,7 @@ AWS is one of the most reliable and widely used cloud platforms. From startups t
 ## 🌐 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BOVq9IpgwR%2FK94dDha1ERBg%3D%3D)
 - [Upwork Profile](https://www.upwork.com/freelancers/~01f8de2725f78204a9?mp_source=share)
-- [Email Me](hamzabaker50k@gmail.com)
+- [Email Me](mailto:hamzabaker50k@gmail.com)
 
 ## 💡 Let's Build Together
 I believe in helping businesses realize the full potential of the cloud. Feel free to explore my repositories for useful AWS examples, templates, and tools that you can use to start or improve your cloud infrastructure. If you have any questions or need support, don’t hesitate to reach out!
